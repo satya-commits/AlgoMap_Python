@@ -4,6 +4,6 @@ solution = nums[0]
 
 for i in nums:
     if abs(i) < abs(solution):
-        solution = i
-
+        solution = i 
+        
 print(solution)
